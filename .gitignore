@@ -1,0 +1,6 @@
+# Editor temp files:
+*.sw*
+*~
+
+# OS
+.DS_Store
