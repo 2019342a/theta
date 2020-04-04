@@ -21,7 +21,7 @@ Now that the requirements are satisfied, you can install theta by using:
 git clone https://github.com/2019342a/theta.git "$ZSH_CUSTOM/themes/theta"
 ```
 
-Set ZSH_THEME="theta" in your .zshrc.
+Set ZSH_THEME="theta/theta" in your .zshrc.
 
 ## Contributing
 Feel free to ask questions and/or suggest improvements
